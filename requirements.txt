@@ -1,1 +1,2 @@
 gunicorn==23.0.0
+PySide6==6.9.1
