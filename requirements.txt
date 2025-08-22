@@ -1,4 +1,4 @@
 gunicorn==23.0.0
 PySide6==6.9.1
 mysql-connector-python==9.3.0
-pwin32==311
+pywin32
